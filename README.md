@@ -10,7 +10,7 @@ This project is a Python Flask backend that exposes REST endpoints for user regi
 - **Token-protected writes** — the POST /products endpoint requires a Bearer token set via environment variable, showing a real API security pattern
 - **Free deployment out of the box** — includes a `Procfile` and `requirements.txt` for one-click deploy on Render
 
-[![Watch on YouTube](https://img.shields.io/badge/YouTube-Watch%20the%20Tutorial-red?style=for-the-badge&logo=youtube)](https://youtube.com/watch?v=PLACEHOLDER)
+[![Watch on YouTube](https://img.shields.io/badge/YouTube-Watch%20the%20Tutorial-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/playlist?list=PLbeGXTt3IOd9EBRS930ls8RaFYQeNyUgz)
 
 ## 🚀 Getting Started
 
